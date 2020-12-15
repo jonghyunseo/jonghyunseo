@@ -1,7 +1,7 @@
 ### Hey 👋, This is Jonghyun Seo
 
 [![Gmail Badge](https://img.shields.io/badge/-jonghyun0101.seo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jonghyun0101.seo@gmail.com)](mailto:jonghyun0101.seo@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-jonghyun-seo-7790139-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonghyun-seo-7790139a/)](https://www.linkedin.com/in/jonghyun-seo-7790139a/)
+[![Linkedin Badge](https://img.shields.io/badge/-jonghyun--seo--7790139-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonghyun--seo--7790139a/)](https://www.linkedin.com/in/jonghyun-seo-7790139a/)
 
 
 <!--
