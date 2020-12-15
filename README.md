@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋, This is Jonghyun Seo
+
+[![Gmail Badge](https://img.shields.io/badge/-jonghyun0101.seo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jonghyun0101.seo@gmail.com)](mailto:jonghyun0101.seo@gmail.com) 
 
 <!--
 **jonghyunseo/jonghyunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
